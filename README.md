@@ -2,6 +2,8 @@
 - 👀 I’m interested in learn about techs
 - 🌱 I’m currently learning Java getting my first steps
 - 💞️ I’m looking to collaborate on devops communit
+- I belive in Jesus Christ 
+- 
 
 
 <!---
